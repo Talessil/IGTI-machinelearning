@@ -1,1 +1,1 @@
-# IGTI-machinelearning-course
+# machinelearning-course

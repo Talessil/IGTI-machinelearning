@@ -1,1 +1,1 @@
-# machinelearning-course
+# machinelearning
